@@ -8,7 +8,7 @@
 
 | Notebook | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/ComfyUI-jupyter/blob/main/ComfyUI_jupyter.ipynb) | ComfyUI_jupyter
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/ComfyUI-jupyter/blob/main/ComfyUI_Flux_1_dev_jupyter.ipynb) | ComfyUI_Flux_1_dev_jupyter
 
 ### 🧬 Code
 https://github.com/comfyanonymous/ComfyUI
